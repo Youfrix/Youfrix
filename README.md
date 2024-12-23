@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="170" src="https://avatars.githubusercontent.com/u/106921796?v=4"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -52,12 +48,6 @@
 
 <br clear="both">
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Youfrix.Youfrix&left_color=aliceblue&right_color=antiquewhite"  />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=999&username=Youfrix&theme=dark" alt="Layout with last medium posts"  />
-</div>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Youfrix.Youfrix&"  />
 
 ###
